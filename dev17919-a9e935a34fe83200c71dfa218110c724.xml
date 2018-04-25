@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-25 08:04:05"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>A toolkit for every ServiceNow developer. Find more at www.sndeveloper.com.
+
+### Version 4.1
+* Automatically blacklist illegal fields.
+* Add prototype property to function explanations.
+* Fix cross-origin target frame access issue.
+* Add support for property driven default blacklist and redlist.
+* Update info page.
+* Prevent strings containing XML from being quoted so it formats better.
+* Move timer to the header for better visibility and reference.
+* Add code example to regular expression tester.
+* Added format button to user_data for formatting XML.
+* Fix submit button spinner.
+* Add support for function prototypes.
+* Added node log support.</description><inserted/><name>SND Xplore - 4.1</name><origin_sys_id/><parent/><release_date>2016-09-30 16:00:18</release_date><remote_base_update_set/><remote_parent_id/><remote_sys_id>a9e935a34fe83200c71dfa218110c724</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 08:04:05</sys_created_on><sys_id>1d4df4734f611300c71dfa218110c7ae</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 08:04:05</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
